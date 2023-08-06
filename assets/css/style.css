@@ -398,9 +398,9 @@ h6 {
   left: 55px;
   right: 55px;
 }
-
+/* small box that come up from down over the home page for content display*/
 #hero .carousel-content {
-  background: rgba(4, 4, 4, 0.7);
+  background: rgba(120, 120, 120, 0.7);
   padding: 20px;
   color: #fff;
   border-top: 5px solid  #0db5e5;
@@ -468,7 +468,7 @@ h6 {
   line-height: 0;
   width: auto;
   height: auto;
-  background: rgba(255, 255, 255, 0.4);
+  background: rgba(0, 0, 0, 0.4);   /* prev and next round button bg color*/
   border-radius: 50px;
   transition: 0.3s;
   color: rgba(255, 255, 255, 0.6);
