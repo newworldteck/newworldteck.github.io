@@ -102,7 +102,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 50px;
 }
 
 /*--------------------------------------------------------------
@@ -2203,6 +2203,12 @@ section {
   padding-top: 5px;
   font-size: 13px;
   color: #fff;
+}
+
+#footer .copyright_1 {
+  padding-top: 5px;
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.8);
 }
 
 #footer .social-links a {
